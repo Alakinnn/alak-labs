@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "176870bde8afc445",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6d50bc57443d964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9258c3c60759cc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OverTheWire/Natas/Level25.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level25"
+            }
+          },
+          {
+            "id": "efb65568f9c2f7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OverTheWire/Natas/Level26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level26"
+            }
+          },
+          {
+            "id": "e6be2421b9dc272a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Planning"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "164349d9b4aef454",
+    "type": "split",
+    "children": [
+      {
+        "id": "40c5db0275ef02c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2be8e605b3defa52",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "72f7905128b641bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dictionary",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5159280206a2d7e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "844eaa737ffc376a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8242e2eba8ef27f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfbaafbf44869126",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTB/Titanic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Titanic"
+            }
+          },
+          {
+            "id": "2921d882c2bb0756",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTB/Titanic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Titanic"
+            }
+          },
+          {
+            "id": "bc89abf8e12d906c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f40af6b778f4a6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTB/Titanic.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Titanic"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2be8e605b3defa52",
+  "lastOpenFiles": [
+    "alak-labs",
+    "HTB/Titanic.md",
+    "OverTheWire/Natas/Level27.md",
+    "OverTheWire/Natas/Level26.md",
+    "OverTheWire/Natas/Level25.md",
+    "OverTheWire/Natas/Level13.md",
+    "OverTheWire/Natas/Level12.md",
+    "OverTheWire/Natas/Level11.md",
+    "OverTheWire/Natas/Level10.md",
+    "OverTheWire/Natas/Level9.md",
+    "OverTheWire/Natas/Level8.md",
+    "OverTheWire/Natas/Level7.md",
+    "OverTheWire/Natas/Level6.md",
+    "OverTheWire/Natas/Level5.md",
+    "OverTheWire/Natas/Level4.md",
+    "OverTheWire/Natas/Level3.md",
+    "OverTheWire/Natas/Level2.md",
+    "OverTheWire/Natas/Level1.md",
+    "OverTheWire/Natas/Level0.md",
+    "OverTheWire/Natas/Level24.md",
+    "OverTheWire/Natas/Level23.md",
+    "OverTheWire/Natas/Level22.md",
+    "OverTheWire/Natas/Level21.md",
+    "OverTheWire/Natas/Level20.md",
+    "OverTheWire/Natas/Level19.md",
+    "OverTheWire/Natas/Level17.md",
+    "OverTheWire/Natas",
+    "OverTheWire",
+    "HTB/BeginnerPath",
+    "HTB"
+  ]
+}
